@@ -5,7 +5,7 @@ const App = () => {
   const [text, setText] = useState("Hello, World!");
 
   const changeText = () => {
-    setText("Text Changed!");
+    setText("Text Changed!")
   };
 
   return (
